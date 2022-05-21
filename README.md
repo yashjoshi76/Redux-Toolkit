@@ -1,2 +1,3 @@
 # Redux-Toolkit
-Created with CodeSandbox
+
+Redux toolkit setup and practice.
